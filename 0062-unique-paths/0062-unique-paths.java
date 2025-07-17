@@ -1,6 +1,9 @@
 class Solution {
     public int uniquePaths(int m, int n) {
-        int dp[][]=new int[m+1][n+1];
+        // intialize the dp array
+        int dp[][]=new int[m][n];
+
+        // fill it with negative number ie -1
         for(int i=0;i<m;i++){
             Arrays.fill(dp[i],-1);
         }
@@ -8,10 +11,12 @@ class Solution {
     }
 
     public int solve(int row, int col, int m, int n,int dp[][]) {
-
+        
+        // if we get the one way
         if (row == m-1 && col == n-1) {
             return 1;
         }
+        // if we got invalid row or column
         if (row > m-1 || col > n-1)
             return 0;
 
