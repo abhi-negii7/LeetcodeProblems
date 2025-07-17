@@ -12,7 +12,7 @@ class Solution {
         if (row == m-1 && col == n-1) {
             return 1;
         }
-        if (row > m || col > n)
+        if (row > m-1 || col > n-1)
             return 0;
 
         if(dp[row][col]!=-1)
