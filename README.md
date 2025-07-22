@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0064-minimum-path-sum) |
 | [0091-decode-ways](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0091-decode-ways) |
 | [0392-is-subsequence](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0392-is-subsequence) |
@@ -51,12 +52,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0064-minimum-path-sum) |
 | [0747-min-cost-climbing-stairs](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0747-min-cost-climbing-stairs) |
 | [1677-matrix-diagonal-sum](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/1677-matrix-diagonal-sum) |
 ## Matrix
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0064-minimum-path-sum) |
 | [1677-matrix-diagonal-sum](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/1677-matrix-diagonal-sum) |
 ## Two Pointers
