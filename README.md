@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0062-unique-paths) |
 | [0412-fizz-buzz](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0412-fizz-buzz) |
+| [2619-categorize-box-according-to-criteria](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/2619-categorize-box-according-to-criteria) |
 ## Combinatorics
 |  |
 | ------- |
