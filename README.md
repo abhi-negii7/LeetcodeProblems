@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0110-balanced-binary-tree](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0226-invert-binary-tree) |
@@ -51,12 +52,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0112-path-sum](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0404-sum-of-left-leaves) |
 ## Binary Tree
 |  |
 | ------- |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0110-balanced-binary-tree](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0226-invert-binary-tree) |
