@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/1046-max-consecutive-ones-iii) |
 | [1677-matrix-diagonal-sum](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/1677-matrix-diagonal-sum) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2355-maximum-consecutive-floors-without-special-floors](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/2355-maximum-consecutive-floors-without-special-floors) |
 | [2433-best-poker-hand](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/2433-best-poker-hand) |
 ## Matrix
 |  |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0958-sort-array-by-parity-ii](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0958-sort-array-by-parity-ii) |
+| [2355-maximum-consecutive-floors-without-special-floors](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/2355-maximum-consecutive-floors-without-special-floors) |
 ## Enumeration
 |  |
 | ------- |
