@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0412-fizz-buzz) |
 | [1250-longest-common-subsequence](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/1250-longest-common-subsequence) |
+| [3412-permutation-difference-between-two-strings](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/3412-permutation-difference-between-two-strings) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Dynamic Programming
 |  |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0442-find-all-duplicates-in-an-array](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [2433-best-poker-hand](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/2433-best-poker-hand) |
+| [3412-permutation-difference-between-two-strings](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/3412-permutation-difference-between-two-strings) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Counting
 |  |
