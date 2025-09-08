@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0062-unique-paths) |
 | [0412-fizz-buzz](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0412-fizz-buzz) |
+| [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2351-number-of-ways-to-buy-pens-and-pencils](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/2351-number-of-ways-to-buy-pens-and-pencils) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/2432-number-of-zero-filled-subarrays) |
