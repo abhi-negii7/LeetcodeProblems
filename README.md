@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0062-unique-paths) |
 | [0412-fizz-buzz](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0412-fizz-buzz) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0031-next-permutation) |
+| [0048-rotate-image](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0048-rotate-image) |
 | [0063-unique-paths-ii](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0064-minimum-path-sum) |
 | [0377-combination-sum-iv](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0377-combination-sum-iv) |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0048-rotate-image) |
 | [0063-unique-paths-ii](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0064-minimum-path-sum) |
 | [0419-battleships-in-a-board](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0419-battleships-in-a-board) |
