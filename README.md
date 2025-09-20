@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0091-decode-ways](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0091-decode-ways) |
+| [0151-reverse-words-in-a-string](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0412-fizz-buzz) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0031-next-permutation) |
+| [0151-reverse-words-in-a-string](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0392-is-subsequence) |
 | [0958-sort-array-by-parity-ii](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0958-sort-array-by-parity-ii) |
