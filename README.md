@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2355-maximum-consecutive-floors-without-special-floors](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/2355-maximum-consecutive-floors-without-special-floors) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2433-best-poker-hand](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/2433-best-poker-hand) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3415-check-if-grid-satisfies-conditions](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/3415-check-if-grid-satisfies-conditions) |
 ## Matrix
 |  |
@@ -137,12 +138,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0575-distribute-candies) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [2433-best-poker-hand](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/2433-best-poker-hand) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3412-permutation-difference-between-two-strings](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/3412-permutation-difference-between-two-strings) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Counting
 |  |
 | ------- |
 | [2433-best-poker-hand](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/2433-best-poker-hand) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Binary Search
 |  |
