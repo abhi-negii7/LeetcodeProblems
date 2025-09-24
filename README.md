@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2084-maximum-number-of-weeks-for-which-you-can-work](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/2084-maximum-number-of-weeks-for-which-you-can-work) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2355-maximum-consecutive-floors-without-special-floors](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/2355-maximum-consecutive-floors-without-special-floors) |
+| [2362-minimum-rounds-to-complete-all-tasks](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2433-best-poker-hand](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/2433-best-poker-hand) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0575-distribute-candies](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0575-distribute-candies) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [2362-minimum-rounds-to-complete-all-tasks](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2433-best-poker-hand](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/2433-best-poker-hand) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3412-permutation-difference-between-two-strings](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/3412-permutation-difference-between-two-strings) |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [2362-minimum-rounds-to-complete-all-tasks](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2433-best-poker-hand](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/2433-best-poker-hand) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -178,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0334-increasing-triplet-subsequence) |
 | [2084-maximum-number-of-weeks-for-which-you-can-work](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/2084-maximum-number-of-weeks-for-which-you-can-work) |
+| [2362-minimum-rounds-to-complete-all-tasks](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 ## Database
 |  |
 | ------- |
