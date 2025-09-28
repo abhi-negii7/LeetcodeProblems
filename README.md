@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0575-distribute-candies](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0575-distribute-candies) |
+| [0643-maximum-average-subarray-i](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0643-maximum-average-subarray-i) |
 | [0747-min-cost-climbing-stairs](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0747-min-cost-climbing-stairs) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0958-sort-array-by-parity-ii](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0958-sort-array-by-parity-ii) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0643-maximum-average-subarray-i](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0643-maximum-average-subarray-i) |
 | [1046-max-consecutive-ones-iii](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/1046-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |
