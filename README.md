@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0412-fizz-buzz) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2351-number-of-ways-to-buy-pens-and-pencils](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/2351-number-of-ways-to-buy-pens-and-pencils) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2619-categorize-box-according-to-criteria](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/2619-categorize-box-according-to-criteria) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0062-unique-paths) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/2324-find-triangular-sum-of-an-array) |
 ## Tree
 |  |
 | ------- |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1798-max-number-of-k-sum-pairs](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2084-maximum-number-of-weeks-for-which-you-can-work](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/2084-maximum-number-of-weeks-for-which-you-can-work) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2355-maximum-consecutive-floors-without-special-floors](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/2355-maximum-consecutive-floors-without-special-floors) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -142,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0412-fizz-buzz) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2886-faulty-keyboard](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/2886-faulty-keyboard) |
 ## Hash Table
 |  |
