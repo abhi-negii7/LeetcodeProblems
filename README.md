@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1677-matrix-diagonal-sum](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/1677-matrix-diagonal-sum) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/1798-max-number-of-k-sum-pairs) |
+| [1833-find-the-highest-altitude](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/1833-find-the-highest-altitude) |
 | [2084-maximum-number-of-weeks-for-which-you-can-work](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/2084-maximum-number-of-weeks-for-which-you-can-work) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0238-product-of-array-except-self) |
 | [1046-max-consecutive-ones-iii](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/1046-max-consecutive-ones-iii) |
+| [1833-find-the-highest-altitude](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/1833-find-the-highest-altitude) |
 ## Sorting
 |  |
 | ------- |
