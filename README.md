@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2351-number-of-ways-to-buy-pens-and-pencils](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/2351-number-of-ways-to-buy-pens-and-pencils) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2619-categorize-box-according-to-criteria](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/2619-categorize-box-according-to-criteria) |
+| [3336-water-bottles-ii](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/3336-water-bottles-ii) |
 ## Combinatorics
 |  |
 | ------- |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2886-faulty-keyboard](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/2886-faulty-keyboard) |
+| [3336-water-bottles-ii](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/3336-water-bottles-ii) |
 ## Hash Table
 |  |
 | ------- |
