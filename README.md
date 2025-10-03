@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0404-sum-of-left-leaves) |
+| [0407-trapping-rain-water-ii](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0407-trapping-rain-water-ii) |
 ## Binary Tree
 |  |
 | ------- |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0238-product-of-array-except-self) |
 | [0334-increasing-triplet-subsequence](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0334-increasing-triplet-subsequence) |
 | [0377-combination-sum-iv](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0377-combination-sum-iv) |
+| [0407-trapping-rain-water-ii](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0407-trapping-rain-water-ii) |
 | [0419-battleships-in-a-board](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0419-battleships-in-a-board) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0540-single-element-in-a-sorted-array) |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0048-rotate-image) |
 | [0063-unique-paths-ii](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0064-minimum-path-sum) |
+| [0407-trapping-rain-water-ii](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0407-trapping-rain-water-ii) |
 | [0419-battleships-in-a-board](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0419-battleships-in-a-board) |
 | [1677-matrix-diagonal-sum](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/1677-matrix-diagonal-sum) |
 | [3415-check-if-grid-satisfies-conditions](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/3415-check-if-grid-satisfies-conditions) |
@@ -261,4 +264,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0292-nim-game) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0407-trapping-rain-water-ii](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0407-trapping-rain-water-ii) |
 <!---LeetCode Topics End-->
