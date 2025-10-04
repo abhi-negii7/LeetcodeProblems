@@ -1,15 +1,20 @@
 class Solution {
     public String triangleType(int[] nums) {
-        // It is not a triangle
-        if (nums[0] + nums[1] <= nums[2] || nums[0] + nums[2] <= nums[1]
-                || nums[1] + nums[2] <= nums[0])
+
+        int a = nums[0], b = nums[1], c = nums[2];
+
+        // Property of triangle
+        if (a + b <= c || a + c <= b || b + c <= a)
             return "none";
-        // If all sides are equal
-        if (nums[0] == nums[1] && nums[2] == nums[0])
+
+        // All side are equal
+        else if (a == b && b == c)
             return "equilateral";
-        // If all sides are not equal to each other
-        if (nums[0] != nums[1] && nums[0] != nums[2] && nums[1] != nums[2])
-            return "scalene";
-        return "isosceles";
+
+        // Any two sides are equal
+        else if (a == b || a == c || b == c)
+            return "isosceles";
+
+        return "scalene";
     }
 }
