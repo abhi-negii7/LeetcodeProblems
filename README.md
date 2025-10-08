@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2355-maximum-consecutive-floors-without-special-floors](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/2355-maximum-consecutive-floors-without-special-floors) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2428-equal-row-and-column-pairs](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/2428-equal-row-and-column-pairs) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2433-best-poker-hand](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/2433-best-poker-hand) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0407-trapping-rain-water-ii) |
 | [0419-battleships-in-a-board](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0419-battleships-in-a-board) |
 | [1677-matrix-diagonal-sum](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/1677-matrix-diagonal-sum) |
+| [2428-equal-row-and-column-pairs](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/2428-equal-row-and-column-pairs) |
 | [3415-check-if-grid-satisfies-conditions](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/3415-check-if-grid-satisfies-conditions) |
 ## Two Pointers
 |  |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2271-rearrange-array-elements-by-sign](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2428-equal-row-and-column-pairs](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/2428-equal-row-and-column-pairs) |
 | [2886-faulty-keyboard](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/2886-faulty-keyboard) |
 | [3336-water-bottles-ii](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/3336-water-bottles-ii) |
 ## Hash Table
@@ -196,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2331-intersection-of-multiple-arrays](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/2331-intersection-of-multiple-arrays) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
+| [2428-equal-row-and-column-pairs](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/2428-equal-row-and-column-pairs) |
 | [2433-best-poker-hand](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/2433-best-poker-hand) |
 | [2487-optimal-partition-of-string](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/2487-optimal-partition-of-string) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
