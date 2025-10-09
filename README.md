@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0062-unique-paths) |
+| [0172-factorial-trailing-zeroes](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0172-factorial-trailing-zeroes) |
 | [0292-nim-game](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0292-nim-game) |
 | [0412-fizz-buzz](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0412-fizz-buzz) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
