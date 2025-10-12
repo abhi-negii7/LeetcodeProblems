@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0048-rotate-image) |
 | [0063-unique-paths-ii](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0064-minimum-path-sum) |
+| [0136-single-number](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0136-single-number) |
 | [0238-product-of-array-except-self](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0238-product-of-array-except-self) |
 | [0334-increasing-triplet-subsequence](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0334-increasing-triplet-subsequence) |
 | [0377-combination-sum-iv](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0377-combination-sum-iv) |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0136-single-number) |
 | [0389-find-the-difference](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0389-find-the-difference) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Number Theory
