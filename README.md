@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0882-peak-index-in-a-mountain-array](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [0958-sort-array-by-parity-ii](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0958-sort-array-by-parity-ii) |
+| [0966-binary-subarrays-with-sum](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/1046-max-consecutive-ones-iii) |
 | [1127-last-stone-weight](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/1127-last-stone-weight) |
 | [1319-unique-number-of-occurrences](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/1319-unique-number-of-occurrences) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0575-distribute-candies](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0575-distribute-candies) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
+| [0966-binary-subarrays-with-sum](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0966-binary-subarrays-with-sum) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1319-unique-number-of-occurrences](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0643-maximum-average-subarray-i) |
+| [0966-binary-subarrays-with-sum](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/1046-max-consecutive-ones-iii) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -257,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0724-find-pivot-index) |
+| [0966-binary-subarrays-with-sum](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/1046-max-consecutive-ones-iii) |
 | [1833-find-the-highest-altitude](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/1833-find-the-highest-altitude) |
 | [2102-find-the-middle-index-in-array](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/2102-find-the-middle-index-in-array) |
