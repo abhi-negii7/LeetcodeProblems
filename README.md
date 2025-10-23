@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2886-faulty-keyboard](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/2886-faulty-keyboard) |
 | [3412-permutation-difference-between-two-strings](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/3412-permutation-difference-between-two-strings) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Dynamic Programming
 |  |
@@ -59,11 +60,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2619-categorize-box-according-to-criteria](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/2619-categorize-box-according-to-criteria) |
 | [3321-type-of-triangle](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/3321-type-of-triangle) |
 | [3336-water-bottles-ii](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/3336-water-bottles-ii) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Combinatorics
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0062-unique-paths) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/2324-find-triangular-sum-of-an-array) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Tree
 |  |
 | ------- |
@@ -194,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2470-removing-stars-from-a-string](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/2470-removing-stars-from-a-string) |
 | [2886-faulty-keyboard](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/2886-faulty-keyboard) |
 | [3336-water-bottles-ii](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/3336-water-bottles-ii) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -305,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Brainteaser
 |  |
 | ------- |
