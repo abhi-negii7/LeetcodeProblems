@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-binary-subarrays-with-sum](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/1046-max-consecutive-ones-iii) |
 | [1127-last-stone-weight](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/1127-last-stone-weight) |
+| [1256-rank-transform-of-an-array](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/1256-rank-transform-of-an-array) |
 | [1319-unique-number-of-occurrences](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0575-distribute-candies) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [0966-binary-subarrays-with-sum](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0966-binary-subarrays-with-sum) |
+| [1256-rank-transform-of-an-array](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/1256-rank-transform-of-an-array) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1319-unique-number-of-occurrences](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -276,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0389-find-the-difference](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0389-find-the-difference) |
 | [0958-sort-array-by-parity-ii](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0958-sort-array-by-parity-ii) |
+| [1256-rank-transform-of-an-array](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/1256-rank-transform-of-an-array) |
 | [1777-determine-if-two-strings-are-close](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2331-intersection-of-multiple-arrays](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/2331-intersection-of-multiple-arrays) |
