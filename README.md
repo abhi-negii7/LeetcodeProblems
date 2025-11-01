@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3415-check-if-grid-satisfies-conditions](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/3415-check-if-grid-satisfies-conditions) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3644-minimum-positive-sum-subarray](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/3644-minimum-positive-sum-subarray) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 ## Matrix
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3412-permutation-difference-between-two-strings](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/3412-permutation-difference-between-two-strings) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Counting
@@ -347,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0206-reverse-linked-list](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0328-odd-even-linked-list) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Recursion
 |  |
 | ------- |
