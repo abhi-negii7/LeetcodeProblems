@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0048-rotate-image) |
 | [0063-unique-paths-ii](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0063-unique-paths-ii) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0031-next-permutation) |
 | [0151-reverse-words-in-a-string](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0345-reverse-vowels-of-a-string) |
@@ -288,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0015-3sum) |
 | [0389-find-the-difference](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0389-find-the-difference) |
 | [0958-sort-array-by-parity-ii](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0958-sort-array-by-parity-ii) |
 | [1256-rank-transform-of-an-array](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/1256-rank-transform-of-an-array) |
