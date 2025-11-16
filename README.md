@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1250-longest-common-subsequence](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/1250-longest-common-subsequence) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1636-number-of-substrings-with-only-1s](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1777-determine-if-two-strings-are-close](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/1777-determine-if-two-strings-are-close) |
 | [1894-merge-strings-alternately](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/1894-merge-strings-alternately) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1362-airplane-seat-assignment-probability](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/1362-airplane-seat-assignment-probability) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
+| [1636-number-of-substrings-with-only-1s](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1642-water-bottles](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/1642-water-bottles) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1844-maximum-number-of-balls-in-a-box](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/1844-maximum-number-of-balls-in-a-box) |
