@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0172-factorial-trailing-zeroes) |
 | [0292-nim-game](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0292-nim-game) |
 | [0412-fizz-buzz](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0412-fizz-buzz) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1362-airplane-seat-assignment-probability](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/1362-airplane-seat-assignment-probability) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0407-trapping-rain-water-ii) |
 | [0419-battleships-in-a-board](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0419-battleships-in-a-board) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0485-max-consecutive-ones](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0575-distribute-candies](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0575-distribute-candies) |
