@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0412-fizz-buzz) |
 | [1250-longest-common-subsequence](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/1250-longest-common-subsequence) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1528-shuffle-string](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/1528-shuffle-string) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1777-determine-if-two-strings-are-close](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/1777-determine-if-two-strings-are-close) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1392-find-the-difference-of-two-arrays](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1528-shuffle-string](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/1528-shuffle-string) |
 | [1580-shuffle-the-array](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/1580-shuffle-the-array) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1612-avoid-flood-in-the-city](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/1612-avoid-flood-in-the-city) |
