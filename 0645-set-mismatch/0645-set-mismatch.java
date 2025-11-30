@@ -1,22 +1,20 @@
 class Solution {
     public int[] findErrorNums(int[] nums) {
-        int repeatNum = -1;
-        HashSet<Integer> set = new HashSet<>();
+        int[] ans = new int[2];
 
-        for (int i : nums) {
-            if (!set.isEmpty() && set.contains(i))
-                repeatNum = i;
-            set.add(i);
-        }
-
-        int missingNum = -1;
-        for (int i = 1; i <= nums.length; i++) {
-            if (!set.contains(i)) {
-                missingNum = i;
-                break;
+        for (int i = 0; i < nums.length; i++) {
+            int idx = Math.abs(nums[i]);
+            if (nums[idx - 1] < 1) {
+                ans[0] = idx;
+            } else {
+                nums[idx - 1] = -nums[idx - 1];
             }
         }
 
-        return new int[] { repeatNum, missingNum };
+        for (int i = 0; i < nums.length; i++) {
+            if (nums[i] > 0)
+                ans[1] = i + 1;
+        }
+        return ans;
     }
 }
