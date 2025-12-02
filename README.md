@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/1046-max-consecutive-ones-iii) |
 | [1127-last-stone-weight](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/1127-last-stone-weight) |
 | [1256-rank-transform-of-an-array](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/1256-rank-transform-of-an-array) |
+| [1313-decompress-run-length-encoded-list](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/1313-decompress-run-length-encoded-list) |
 | [1319-unique-number-of-occurrences](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/1319-unique-number-of-occurrences) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/1392-find-the-difference-of-two-arrays) |
