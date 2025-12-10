@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1636-number-of-substrings-with-only-1s](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1777-determine-if-two-strings-are-close](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/1777-determine-if-two-strings-are-close) |
 | [1894-merge-strings-alternately](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/1894-merge-strings-alternately) |
+| [1957-delete-characters-to-make-fancy-string](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/1957-delete-characters-to-make-fancy-string) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2470-removing-stars-from-a-string](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/2470-removing-stars-from-a-string) |
