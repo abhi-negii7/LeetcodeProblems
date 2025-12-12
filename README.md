@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2487-optimal-partition-of-string](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/2487-optimal-partition-of-string) |
 | [2492-length-of-the-longest-alphabetical-continuous-substring](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/2492-length-of-the-longest-alphabetical-continuous-substring) |
 | [2886-faulty-keyboard](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/2886-faulty-keyboard) |
+| [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 | [3412-permutation-difference-between-two-strings](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/3412-permutation-difference-between-two-strings) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2428-equal-row-and-column-pairs](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/2428-equal-row-and-column-pairs) |
 | [2470-removing-stars-from-a-string](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/2470-removing-stars-from-a-string) |
 | [2886-faulty-keyboard](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/2886-faulty-keyboard) |
+| [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 | [3336-water-bottles-ii](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/3336-water-bottles-ii) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Hash Table
