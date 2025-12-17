@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1894-merge-strings-alternately](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/1894-merge-strings-alternately) |
 | [1957-delete-characters-to-make-fancy-string](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/1957-delete-characters-to-make-fancy-string) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2470-removing-stars-from-a-string](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/2470-removing-stars-from-a-string) |
 | [2487-optimal-partition-of-string](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/2487-optimal-partition-of-string) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2058-concatenation-of-array](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/2058-concatenation-of-array) |
 | [2084-maximum-number-of-weeks-for-which-you-can-work](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/2084-maximum-number-of-weeks-for-which-you-can-work) |
 | [2102-find-the-middle-index-in-array](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/2102-find-the-middle-index-in-array) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2169-simple-bank-system](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/2169-simple-bank-system) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/2274-keep-multiplying-found-values-by-two) |
