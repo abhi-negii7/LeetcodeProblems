@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2470-removing-stars-from-a-string](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/2470-removing-stars-from-a-string) |
 | [2487-optimal-partition-of-string](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/2487-optimal-partition-of-string) |
 | [2492-length-of-the-longest-alphabetical-continuous-substring](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/2492-length-of-the-longest-alphabetical-continuous-substring) |
+| [2678-number-of-senior-citizens](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/2678-number-of-senior-citizens) |
 | [2886-faulty-keyboard](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/2886-faulty-keyboard) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 | [3412-permutation-difference-between-two-strings](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/3412-permutation-difference-between-two-strings) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2433-best-poker-hand](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/2433-best-poker-hand) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2678-number-of-senior-citizens](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/2678-number-of-senior-citizens) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3321-type-of-triangle](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/3321-type-of-triangle) |
