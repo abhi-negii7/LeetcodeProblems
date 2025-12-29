@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1678-goal-parser-interpretation](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/1678-goal-parser-interpretation) |
 | [1777-determine-if-two-strings-are-close](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/1777-determine-if-two-strings-are-close) |
 | [1894-merge-strings-alternately](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/1894-merge-strings-alternately) |
+| [1903-largest-odd-number-in-string](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/1903-largest-odd-number-in-string) |
 | [1957-delete-characters-to-make-fancy-string](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/1957-delete-characters-to-make-fancy-string) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1642-water-bottles](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/1642-water-bottles) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1844-maximum-number-of-balls-in-a-box](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/1844-maximum-number-of-balls-in-a-box) |
+| [1903-largest-odd-number-in-string](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/1903-largest-odd-number-in-string) |
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2351-number-of-ways-to-buy-pens-and-pencils](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/2351-number-of-ways-to-buy-pens-and-pencils) |
@@ -363,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0334-increasing-triplet-subsequence) |
 | [1612-avoid-flood-in-the-city](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/1612-avoid-flood-in-the-city) |
+| [1903-largest-odd-number-in-string](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/1903-largest-odd-number-in-string) |
 | [2084-maximum-number-of-weeks-for-which-you-can-work](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/2084-maximum-number-of-weeks-for-which-you-can-work) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2487-optimal-partition-of-string](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/2487-optimal-partition-of-string) |
