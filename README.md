@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1957-delete-characters-to-make-fancy-string](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/1957-delete-characters-to-make-fancy-string) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2264-largest-3-same-digit-number-in-string](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/2264-largest-3-same-digit-number-in-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2470-removing-stars-from-a-string](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/2470-removing-stars-from-a-string) |
 | [2487-optimal-partition-of-string](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/2487-optimal-partition-of-string) |
