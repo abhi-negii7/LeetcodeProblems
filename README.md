@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0412-fizz-buzz) |
+| [1021-remove-outermost-parentheses](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/1021-remove-outermost-parentheses) |
 | [1250-longest-common-subsequence](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/1250-longest-common-subsequence) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1446-consecutive-characters](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/1446-consecutive-characters) |
@@ -420,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [1021-remove-outermost-parentheses](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2470-removing-stars-from-a-string](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/2470-removing-stars-from-a-string) |
 ## Design
