@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0882-peak-index-in-a-mountain-array](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [0958-sort-array-by-parity-ii](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0958-sort-array-by-parity-ii) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0966-binary-subarrays-with-sum](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0966-binary-subarrays-with-sum) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1046-max-consecutive-ones-iii](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/1046-max-consecutive-ones-iii) |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0575-distribute-candies) |
 | [0645-set-mismatch](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0645-set-mismatch) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0966-binary-subarrays-with-sum](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0966-binary-subarrays-with-sum) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1256-rank-transform-of-an-array](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/1256-rank-transform-of-an-array) |
