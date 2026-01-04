@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1362-airplane-seat-assignment-probability](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/1362-airplane-seat-assignment-probability) |
+| [1390-four-divisors](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/1390-four-divisors) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1642-water-bottles](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/1642-water-bottles) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-unique-number-of-occurrences](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/1319-unique-number-of-occurrences) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1390-four-divisors](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/1390-four-divisors) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/1528-kids-with-the-greatest-number-of-candies) |
