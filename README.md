@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2678-number-of-senior-citizens](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/2678-number-of-senior-citizens) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/2799-count-complete-subarrays-in-an-array) |
+| [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/3074-apple-redistribution-into-boxes) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/3242-count-elements-with-maximum-frequency) |
