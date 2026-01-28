@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1678-goal-parser-interpretation](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/1678-goal-parser-interpretation) |
 | [1777-determine-if-two-strings-are-close](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/1777-determine-if-two-strings-are-close) |
+| [1859-sorting-the-sentence](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/1859-sorting-the-sentence) |
 | [1894-merge-strings-alternately](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/1894-merge-strings-alternately) |
 | [1903-largest-odd-number-in-string](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/1903-largest-odd-number-in-string) |
 | [1957-delete-characters-to-make-fancy-string](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/1957-delete-characters-to-make-fancy-string) |
@@ -392,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1777-determine-if-two-strings-are-close](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/1798-max-number-of-k-sum-pairs) |
+| [1859-sorting-the-sentence](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/1859-sorting-the-sentence) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2331-intersection-of-multiple-arrays](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/2331-intersection-of-multiple-arrays) |
 | [2355-maximum-consecutive-floors-without-special-floors](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/2355-maximum-consecutive-floors-without-special-floors) |
