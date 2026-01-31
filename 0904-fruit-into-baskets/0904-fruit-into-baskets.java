@@ -9,7 +9,7 @@ class Solution {
 
             map.put(fruits[j], map.getOrDefault(fruits[j], 0) + 1);
 
-            while (map.size() > 2) {
+            if (map.size() > 2) {
                 int freq = map.get(fruits[i]) - 1;
                 map.put(fruits[i], freq);
                 if (freq == 0)
