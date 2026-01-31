@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0645-set-mismatch) |
 | [0724-find-pivot-index](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0724-find-pivot-index) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0747-min-cost-climbing-stairs](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0747-min-cost-climbing-stairs) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -346,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0540-single-element-in-a-sorted-array](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0540-single-element-in-a-sorted-array) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/1046-max-consecutive-ones-iii) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
