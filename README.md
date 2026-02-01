@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/1015-smallest-integer-divisible-by-k) |
+| [1248-count-number-of-nice-subarrays](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/1248-count-number-of-nice-subarrays) |
 | [1323-maximum-69-number](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/1323-maximum-69-number) |
 | [1362-airplane-seat-assignment-probability](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/1362-airplane-seat-assignment-probability) |
 | [1390-four-divisors](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/1390-four-divisors) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/1046-max-consecutive-ones-iii) |
 | [1127-last-stone-weight](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/1127-last-stone-weight) |
 | [1200-minimum-absolute-difference](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/1200-minimum-absolute-difference) |
+| [1248-count-number-of-nice-subarrays](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/1248-count-number-of-nice-subarrays) |
 | [1256-rank-transform-of-an-array](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/1256-rank-transform-of-an-array) |
 | [1313-decompress-run-length-encoded-list](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/1313-decompress-run-length-encoded-list) |
 | [1319-unique-number-of-occurrences](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/1319-unique-number-of-occurrences) |
@@ -303,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0966-binary-subarrays-with-sum](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0966-binary-subarrays-with-sum) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/1015-smallest-integer-divisible-by-k) |
+| [1248-count-number-of-nice-subarrays](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/1248-count-number-of-nice-subarrays) |
 | [1256-rank-transform-of-an-array](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/1256-rank-transform-of-an-array) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1319-unique-number-of-occurrences](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/1319-unique-number-of-occurrences) |
@@ -364,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0904-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/1046-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/1248-count-number-of-nice-subarrays) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -383,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0724-find-pivot-index) |
 | [0966-binary-subarrays-with-sum](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/1046-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/1248-count-number-of-nice-subarrays) |
 | [1833-find-the-highest-altitude](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/1833-find-the-highest-altitude) |
 | [2102-find-the-middle-index-in-array](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/2102-find-the-middle-index-in-array) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
