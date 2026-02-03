@@ -246,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3637-trionic-array-i](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/3637-trionic-array-i) |
 | [3644-minimum-positive-sum-subarray](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/3644-minimum-positive-sum-subarray) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3731-find-missing-elements](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/3731-find-missing-elements) |
