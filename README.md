@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0076-minimum-window-substring) |
 | [0091-decode-ways](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0091-decode-ways) |
 | [0151-reverse-words-in-a-string](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0345-reverse-vowels-of-a-string) |
@@ -300,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0076-minimum-window-substring) |
 | [0389-find-the-difference](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0424-longest-repeating-character-replacement) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -370,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0904-fruit-into-baskets) |
