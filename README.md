@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0005-longest-palindromic-substring) |
 | [0076-minimum-window-substring](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0076-minimum-window-substring) |
 | [0091-decode-ways](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0091-decode-ways) |
 | [0151-reverse-words-in-a-string](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0151-reverse-words-in-a-string) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0005-longest-palindromic-substring) |
 | [0062-unique-paths](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0064-minimum-path-sum) |
@@ -275,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0031-next-permutation) |
 | [0151-reverse-words-in-a-string](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0151-reverse-words-in-a-string) |
