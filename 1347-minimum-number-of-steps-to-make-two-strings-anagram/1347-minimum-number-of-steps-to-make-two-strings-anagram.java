@@ -1,24 +1,24 @@
 class Solution {
     public int minSteps(String s, String t) {
 
-        HashMap<Character, Integer> map1 = new HashMap<>();
-        HashMap<Character, Integer> map2 = new HashMap<>();
+        int[] freq1 = new int[26];
+        int[] freq2 = new int[26];
 
         for (char ch : s.toCharArray()) {
-            map1.put(ch, map1.getOrDefault(ch, 0) + 1);
+            freq1[ch - 'a']++;
         }
 
         for (char ch : t.toCharArray()) {
-            map2.put(ch, map2.getOrDefault(ch, 0) + 1);
+            freq2[ch - 'a']++;
         }
 
         int replaceCh = 0;
 
-        for (char ch : map1.keySet()) {
-            if (!map2.containsKey(ch)) {
-                replaceCh += map1.get(ch);
-            } else if (map1.get(ch) > map2.get(ch)) {
-                replaceCh += map1.get(ch) - map2.get(ch);
+        for (int i = 0; i < freq1.length; i++) {
+            if (freq1[i] > 0 && freq2[i] == 0) {
+                replaceCh += freq1[i];
+            } else if (freq1[i] > freq2[i]) {
+                replaceCh += freq1[i] - freq2[i];
             }
         }
 
