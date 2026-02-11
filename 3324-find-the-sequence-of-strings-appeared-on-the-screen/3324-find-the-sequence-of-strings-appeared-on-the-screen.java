@@ -7,7 +7,9 @@ class Solution {
 
             char currCh = target.charAt(i);
             for (char ch = 'a'; ch <= currCh; ch++) {
-                list.add(str.toString() + ch);
+                str.append(ch);
+                list.add(str.toString());
+                str.deleteCharAt(str.length() - 1);
             }
             str.append(currCh);
         }
