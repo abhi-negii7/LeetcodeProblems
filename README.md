@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 | [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
+| [3324-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/3324-find-the-sequence-of-strings-appeared-on-the-screen) |
 | [3340-check-balanced-string](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/3340-check-balanced-string) |
 | [3412-permutation-difference-between-two-strings](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/3412-permutation-difference-between-two-strings) |
 | [3498-reverse-degree-of-a-string](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/3498-reverse-degree-of-a-string) |
@@ -308,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2470-removing-stars-from-a-string](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/2470-removing-stars-from-a-string) |
 | [2886-faulty-keyboard](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/2886-faulty-keyboard) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
+| [3324-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/3324-find-the-sequence-of-strings-appeared-on-the-screen) |
 | [3336-water-bottles-ii](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/3336-water-bottles-ii) |
 | [3379-transformed-array](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/3379-transformed-array) |
 | [3498-reverse-degree-of-a-string](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/3498-reverse-degree-of-a-string) |
