@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0424-longest-repeating-character-replacement) |
+| [0500-keyboard-row](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0500-keyboard-row) |
 | [0680-valid-palindrome-ii](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0680-valid-palindrome-ii) |
 | [0944-delete-columns-to-make-sorted](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0944-delete-columns-to-make-sorted) |
 | [1021-remove-outermost-parentheses](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/1021-remove-outermost-parentheses) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0485-max-consecutive-ones) |
+| [0500-keyboard-row](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0500-keyboard-row) |
 | [0540-single-element-in-a-sorted-array](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0575-distribute-candies](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0575-distribute-candies) |
 | [0643-maximum-average-subarray-i](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0643-maximum-average-subarray-i) |
@@ -321,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0424-longest-repeating-character-replacement) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0500-keyboard-row](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0500-keyboard-row) |
 | [0575-distribute-candies](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0575-distribute-candies) |
 | [0645-set-mismatch](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0645-set-mismatch) |
 | [0904-fruit-into-baskets](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0904-fruit-into-baskets) |
