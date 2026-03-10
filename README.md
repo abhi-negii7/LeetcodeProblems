@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3760-maximum-substrings-with-distinct-start](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3794-reverse-string-prefix](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/3794-reverse-string-prefix) |
+| [3798-largest-even-number](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/3798-largest-even-number) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Dynamic Programming
