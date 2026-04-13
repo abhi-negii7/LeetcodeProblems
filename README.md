@@ -232,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1677-matrix-diagonal-sum](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/1677-matrix-diagonal-sum) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/1833-find-the-highest-altitude) |
+| [1848-minimum-distance-to-the-target-element](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/1848-minimum-distance-to-the-target-element) |
 | [2058-concatenation-of-array](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/2058-concatenation-of-array) |
 | [2084-maximum-number-of-weeks-for-which-you-can-work](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/2084-maximum-number-of-weeks-for-which-you-can-work) |
 | [2102-find-the-middle-index-in-array](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/2102-find-the-middle-index-in-array) |
