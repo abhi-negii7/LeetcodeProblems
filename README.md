@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0424-longest-repeating-character-replacement) |
 | [0500-keyboard-row](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0500-keyboard-row) |
 | [0680-valid-palindrome-ii](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0680-valid-palindrome-ii) |
+| [0796-rotate-string](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0796-rotate-string) |
 | [0944-delete-columns-to-make-sorted](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0944-delete-columns-to-make-sorted) |
 | [1021-remove-outermost-parentheses](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/1021-remove-outermost-parentheses) |
 | [1250-longest-common-subsequence](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/1250-longest-common-subsequence) |
@@ -548,4 +549,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0938-range-sum-of-bst](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0938-range-sum-of-bst) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
