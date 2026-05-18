@@ -214,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0992-subarrays-with-k-different-integers) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1046-max-consecutive-ones-iii](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/1046-max-consecutive-ones-iii) |
+| [1051-height-checker](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/1051-height-checker) |
 | [1127-last-stone-weight](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/1127-last-stone-weight) |
 | [1200-minimum-absolute-difference](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/1200-minimum-absolute-difference) |
 | [1248-count-number-of-nice-subarrays](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/1248-count-number-of-nice-subarrays) |
@@ -451,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0645-set-mismatch) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0958-sort-array-by-parity-ii](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0958-sort-array-by-parity-ii) |
+| [1051-height-checker](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/1051-height-checker) |
 | [1200-minimum-absolute-difference](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/1200-minimum-absolute-difference) |
 | [1256-rank-transform-of-an-array](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/1256-rank-transform-of-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -555,4 +557,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0796-rotate-string) |
+## Counting Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
