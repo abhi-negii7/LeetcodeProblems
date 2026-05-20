@@ -251,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2428-equal-row-and-column-pairs](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/2428-equal-row-and-column-pairs) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2433-best-poker-hand](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/2433-best-poker-hand) |
+| [2540-minimum-common-value](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/2540-minimum-common-value) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2553-separate-the-digits-in-an-array](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/2553-separate-the-digits-in-an-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -303,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1894-merge-strings-alternately](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/1894-merge-strings-alternately) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2540-minimum-common-value](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/2540-minimum-common-value) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3794-reverse-string-prefix](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/3794-reverse-string-prefix) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
@@ -364,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2428-equal-row-and-column-pairs](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/2428-equal-row-and-column-pairs) |
 | [2433-best-poker-hand](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/2433-best-poker-hand) |
 | [2487-optimal-partition-of-string](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/2487-optimal-partition-of-string) |
+| [2540-minimum-common-value](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/2540-minimum-common-value) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/2799-count-complete-subarrays-in-an-array) |
@@ -405,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1612-avoid-flood-in-the-city](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/1612-avoid-flood-in-the-city) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2540-minimum-common-value](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/2540-minimum-common-value) |
 ## Sliding Window
 |  |
 | ------- |
