@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2492-length-of-the-longest-alphabetical-continuous-substring](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/2492-length-of-the-longest-alphabetical-continuous-substring) |
 | [2678-number-of-senior-citizens](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/2678-number-of-senior-citizens) |
 | [2785-sort-vowels-in-a-string](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/2785-sort-vowels-in-a-string) |
+| [2833-furthest-point-from-origin](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/2833-furthest-point-from-origin) |
 | [2886-faulty-keyboard](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/2886-faulty-keyboard) |
 | [3019-number-of-changing-keys](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/3019-number-of-changing-keys) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -394,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2331-intersection-of-multiple-arrays](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/2331-intersection-of-multiple-arrays) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2433-best-poker-hand](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/2433-best-poker-hand) |
+| [2833-furthest-point-from-origin](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/2833-furthest-point-from-origin) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3467-transform-array-by-parity](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/3467-transform-array-by-parity) |
 | [3713-longest-balanced-substring-i](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/3713-longest-balanced-substring-i) |
