@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3321-type-of-triangle](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/3321-type-of-triangle) |
 | [3336-water-bottles-ii](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/3336-water-bottles-ii) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3536-maximum-product-of-two-digits](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/3536-maximum-product-of-two-digits) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3830-find-closest-person](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/3830-find-closest-person) |
@@ -489,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3074-apple-redistribution-into-boxes](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/3074-apple-redistribution-into-boxes) |
 | [3321-type-of-triangle](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/3321-type-of-triangle) |
 | [3467-transform-array-by-parity](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/3467-transform-array-by-parity) |
+| [3536-maximum-product-of-two-digits](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/3731-find-missing-elements) |
 ## Enumeration
 |  |
