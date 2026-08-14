@@ -3,14 +3,14 @@ class Solution {
 
         List<Integer> list = new ArrayList<>();
         HashMap<Integer, Integer> map = new HashMap<>();
-
+        int min = nums.length / 3 + 1;
         for (int num : nums) {
             map.put(num, map.getOrDefault(num, 0) + 1);
-        }
+            if (map.get(num) == min)
+                list.add(num);
+            if (list.size() == 2)
+                return list;
 
-        for (int key : map.keySet()) {
-            if (map.get(key) >(nums.length / 3))
-                list.add(key);
         }
         return list;
     }
