@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0169-majority-element](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0238-product-of-array-except-self) |
 | [0334-increasing-triplet-subsequence](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0334-increasing-triplet-subsequence) |
@@ -350,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0076-minimum-window-substring) |
+| [0169-majority-element](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0229-majority-element-ii) |
 | [0389-find-the-difference](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0424-longest-repeating-character-replacement) |
@@ -401,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0229-majority-element-ii) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [0992-subarrays-with-k-different-integers](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0992-subarrays-with-k-different-integers) |
@@ -472,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0015-3sum) |
+| [0169-majority-element](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0229-majority-element-ii) |
 | [0389-find-the-difference](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0389-find-the-difference) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -595,5 +599,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0229-majority-element-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
