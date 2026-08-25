@@ -291,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3637-trionic-array-i](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/3637-trionic-array-i) |
 | [3644-minimum-positive-sum-subarray](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/3644-minimum-positive-sum-subarray) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/3731-find-missing-elements) |
 | [3925-concatenate-array-with-reverse](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/3925-concatenate-array-with-reverse) |
 ## Matrix
@@ -398,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/3713-longest-balanced-substring-i) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/3731-find-missing-elements) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/3872-find-most-frequent-vowel-and-consonant) |
