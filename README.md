@@ -296,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3731-find-missing-elements](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/3731-find-missing-elements) |
 | [3903-smallest-stable-index-i](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/3903-smallest-stable-index-i) |
 | [3925-concatenate-array-with-reverse](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/3925-concatenate-array-with-reverse) |
+| [3940-limit-occurrences-in-sorted-array](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Matrix
 |  |
 | ------- |
@@ -328,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3794-reverse-string-prefix](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/3794-reverse-string-prefix) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
+| [3940-limit-occurrences-in-sorted-array](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Simulation
 |  |
 | ------- |
