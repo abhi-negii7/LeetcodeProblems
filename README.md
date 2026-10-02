@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3798-largest-even-number](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/3798-largest-even-number) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+| [3884-first-matching-character-from-both-ends](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/3884-first-matching-character-from-both-ends) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -331,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3794-reverse-string-prefix](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/3794-reverse-string-prefix) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
+| [3884-first-matching-character-from-both-ends](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/3884-first-matching-character-from-both-ends) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Simulation
 |  |
