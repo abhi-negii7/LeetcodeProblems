@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0500-keyboard-row) |
 | [0540-single-element-in-a-sorted-array](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0575-distribute-candies](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0575-distribute-candies) |
+| [0594-longest-harmonious-subsequence](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0645-set-mismatch) |
 | [0724-find-pivot-index](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0724-find-pivot-index) |
@@ -373,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0500-keyboard-row](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0500-keyboard-row) |
 | [0575-distribute-candies](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0575-distribute-candies) |
+| [0594-longest-harmonious-subsequence](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0645-set-mismatch) |
 | [0904-fruit-into-baskets](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0904-fruit-into-baskets) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
@@ -421,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0229-majority-element-ii) |
+| [0594-longest-harmonious-subsequence](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0594-longest-harmonious-subsequence) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [0992-subarrays-with-k-different-integers](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0992-subarrays-with-k-different-integers) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
@@ -453,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0076-minimum-window-substring](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0424-longest-repeating-character-replacement) |
+| [0594-longest-harmonious-subsequence](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0904-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0966-binary-subarrays-with-sum) |
@@ -497,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0229-majority-element-ii) |
 | [0389-find-the-difference](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0389-find-the-difference) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0594-longest-harmonious-subsequence](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0645-set-mismatch) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0958-sort-array-by-parity-ii](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/0958-sort-array-by-parity-ii) |
