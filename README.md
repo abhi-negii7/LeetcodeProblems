@@ -278,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2678-number-of-senior-citizens](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/2678-number-of-senior-citizens) |
 | [2784-check-if-array-is-good](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/2784-check-if-array-is-good) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/2799-count-complete-subarrays-in-an-array) |
+| [2841-maximum-sum-of-almost-unique-subarray](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/2841-maximum-sum-of-almost-unique-subarray) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
@@ -408,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2784-check-if-array-is-good](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/2784-check-if-array-is-good) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/2799-count-complete-subarrays-in-an-array) |
+| [2841-maximum-sum-of-almost-unique-subarray](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/2841-maximum-sum-of-almost-unique-subarray) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3412-permutation-difference-between-two-strings](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/3412-permutation-difference-between-two-strings) |
@@ -474,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/2799-count-complete-subarrays-in-an-array) |
+| [2841-maximum-sum-of-almost-unique-subarray](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/2841-maximum-sum-of-almost-unique-subarray) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
