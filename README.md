@@ -276,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2574-left-and-right-sum-differences](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/2574-left-and-right-sum-differences) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2678-number-of-senior-citizens](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/2678-number-of-senior-citizens) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2784-check-if-array-is-good](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/2784-check-if-array-is-good) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2841-maximum-sum-of-almost-unique-subarray](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/2841-maximum-sum-of-almost-unique-subarray) |
@@ -538,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2351-number-of-ways-to-buy-pens-and-pencils](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/2351-number-of-ways-to-buy-pens-and-pencils) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3713-longest-balanced-substring-i](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/3713-longest-balanced-substring-i) |
