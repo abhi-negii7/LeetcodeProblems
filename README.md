@@ -292,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3321-type-of-triangle](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/3321-type-of-triangle) |
 | [3379-transformed-array](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/3379-transformed-array) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
+| [3396-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/3396-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3415-check-if-grid-satisfies-conditions](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/3415-check-if-grid-satisfies-conditions) |
 | [3467-transform-array-by-parity](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/3467-transform-array-by-parity) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -414,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2841-maximum-sum-of-almost-unique-subarray](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/2841-maximum-sum-of-almost-unique-subarray) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3396-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/3396-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3412-permutation-difference-between-two-strings](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/3412-permutation-difference-between-two-strings) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
