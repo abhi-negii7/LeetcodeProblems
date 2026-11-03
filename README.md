@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/3676-smallest-number-with-all-set-bits) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3830-find-closest-person](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/3830-find-closest-person) |
 ## Combinatorics
@@ -306,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/3731-find-missing-elements) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3903-smallest-stable-index-i](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/3903-smallest-stable-index-i) |
 | [3925-concatenate-array-with-reverse](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/3925-concatenate-array-with-reverse) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/abhi-negii7/LeetcodeProblems/tree/master/3940-limit-occurrences-in-sorted-array) |
